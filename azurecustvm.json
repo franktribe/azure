@@ -23,7 +23,7 @@
     "dnsNameForPublicIP": {
       "type": "string",
       "metadata": {
-        "description": "canaxdemo897.eastus.cloudapp.azure.com"
+        "description": "msaxcandemo"
       }
     },
     "adminUserName": {
